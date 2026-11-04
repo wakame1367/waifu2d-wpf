@@ -6,7 +6,7 @@ physics, and more. No model runs here; a `.psd` out of See-through (`img2layers`
 layered the way See-through or [Anime2.5DRig](https://github.com/852wa/Anime2.5DRig) names its
 layers, is opened and driven about.
 
-![screenshot](docs/screenshot.png)
+![demo](docs/demo.gif)
 
 The macOS reference is `waifu-app/swiftui` (`Rig.swift`, `RigMotion.swift`, `RigMetal.swift`,
 `PSD.swift`), which draws its mesh grid with Metal. This port draws it with
